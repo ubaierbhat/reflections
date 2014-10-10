@@ -2,4 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	only when a repository is initialized we are able to commit
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	Staging area contains all the files we want to commit where as working
+	directory might have other files which we don't what to add to the repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	We can submit different logical changes seperately to each commit
