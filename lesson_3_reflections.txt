@@ -25,3 +25,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I use GoogleDrive to collaborate my  projects. It is good for text documents but may be not that good
 	with keeping track of codes. I have just started using Git at university it did seem a bit harder at first
 	but now I think I understand it a bit better.
+	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	This will be done when multiple people are working on the project and we want to make sure that the changes we make are not
+	added to the master branch without peer review
