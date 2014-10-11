@@ -15,3 +15,13 @@ Describe the differences between forks, clones, and branches. When would you use
 	you are not the collaborator. The clone is used if you want to copy the GitHub project to a local 
 	repository. A branch is used if you want to make some changes to your project e.g. experiment with some 
 	features while keeping the original project separate (until you decide to merge the two)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Its good idea to keep a copy of remote stored locally because in case you don't have access
+	to the network for sometime you can still finish your work locally and update it with the last know 
+	version which was online
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I use GoogleDrive to collaborate my  projects. It is good for text documents but may be not that good
+	with keeping track of codes. I have just started using Git at university it did seem a bit harder at first
+	but now I think I understand it a bit better.
